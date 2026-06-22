@@ -1,0 +1,11 @@
+{
+  "name": "io.craftwave/freellm-text2image",
+  "description": "freellm-text2image —— 由 CruiseSkillBridge 一键发布的MCP。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "http://localhost:3000/api/gw/mcp/e4a8fcac-a496-4e65-8456-74fb1d656e03"
+    }
+  ]
+}
